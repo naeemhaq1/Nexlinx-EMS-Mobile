@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Nexlinx EMS",
+    "slug": "nexlinx-ems",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6366f1"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.nexlinx.ems",
+      "versionCode": 2,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8a9a7c41-f117-4e7e-ab18-0580d8997d6a"
+      }
+    }
+  }
+}
